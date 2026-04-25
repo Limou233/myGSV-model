@@ -8,6 +8,8 @@
 |  |  |  |  |  |
 |  |  |  |  |  |
 
+https://raw.githubusercontent.com/Limou233/myGSV-model/refs/heads/main/Endfield/audio/%E8%81%94%E7%BB%9C%E5%91%98%E8%8F%B2%E5%A5%A5%E5%A8%9C.wav
+
 ### 数据集
 >啥都木有
 
