@@ -1,10 +1,10 @@
-# 明日方舟:终末地模型
+# 明日方舟:终末地模型![]()
 
 ### 模型列表
 
-| 角色 | SoVITS&GPT版本 | 参考音频 | 推理音频 |  |
+| 角色 | SoVITS&GPT版本 | 参考音频 | 推理音频 | 备注 |
 | --- | --- | --- | --- | --- |
-| 联络员菲奥娜 | v2proplus | /Endfield/audio/联络员菲奥娜.wav | /home/limou233/Code/myGSV-model/Endfield/audio/联络员菲奥娜AI.wav |  |
+| 联络员菲奥娜 | v2proplus | ![参考音频](/Endfield/audio/联络员菲奥娜.wav) | ![推理音频](/Endfield/audio/联络员菲奥娜AI.wav) | 当前本本表现不佳 可用 |
 |  |  |  |  |  |
 |  |  |  |  |  |
 
