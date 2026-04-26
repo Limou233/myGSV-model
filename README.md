@@ -1,17 +1,18 @@
 # myGSV-model
 
-#### 个人训练的一些GSV模型
->使用项目[GPT-SoVITS](https://https://github.com/RVC-Boss/GPT-SoVITS)训练
+个人训练的一些GSV模型
 
-#### 计划中
-- [x] 联络员菲奥娜
-- [ ] 佩丽卡(新)
+>使用项目[GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)训练
+
+#### 计划中:
+- [x] 秦茳尺
 - [ ] 女管理员
+- [ ] 安德烈
 
-#### [终末地模型列表](Endfield/Endfield.md)
+### [终末地模型列表](Endfield/Endfield.md)
+
 > qvq刚入坑就来炼 做的不好放过我吧 穷学生用CPU跑的...
 
-##### 随着游戏剧情的推进 模型可能会有所变更或出现多个版本 之后可能考虑出演示
 
 # ⚠️免责声明
 - 项目模型仅供学习使用

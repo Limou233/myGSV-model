@@ -22,10 +22,4 @@
 | 米格尔 | v1 | 质量较高 |
 | 秦茳尺 | v1 | 质量中上 |
 
-#### 老模型
-| 角色 | 模型版本 |
-| --- | --- |
-| 佩丽卡 | v2proplus |
-| ⬆️数据集里的不是这个 |  |
-
-
+## 恳请使用时注明[GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)项目地址和[本项目](https://github.com/Limou233/myGSV-model)地址哇
