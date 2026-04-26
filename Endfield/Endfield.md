@@ -1,6 +1,6 @@
 # 明日方舟:终末地模型
 
->下载即视为您已阅读并同意本项目的[Apache Licens 2.0](LICENSE)
+>下载即视为您已阅读并同意本项目的[Apache License 2.0](../LICENSE)
 
 ### 模型列表
 >下载地址[123云盘](https://1828643901.share.123pan.cn/123pan/XcZljv-glMpH?pwd=0721#)提取码:0721
