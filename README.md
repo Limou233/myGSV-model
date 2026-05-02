@@ -5,9 +5,9 @@
 >使用项目[GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)训练
 
 #### 计划中:
-- [x] 秦茳尺
-- [ ] 女管理员
-- [ ] 安德烈
+- [ ] 陈千语
+- [ ] 秦茳尺v2
+
 
 ### [终末地模型列表](Endfield/Endfield.md)
 
